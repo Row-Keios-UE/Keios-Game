@@ -1,5 +1,5 @@
 # Keios-Game
-Tui thử quản lý version một UE Project bằng Git nè
+Tui thử tạo một metaverse với UE5
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Row-Keios-UE/Keios-Game)](https://github.com/Row-Keios-UE/Keios-Game/graphs/contributors)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Row-Keios-UE/Keios-Game)
